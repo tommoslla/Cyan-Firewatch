@@ -33,13 +33,13 @@ The theme will activate after the last restart.
 /* Make sure the image you are using is a HTTPS Link Or it WONT work */
 
 .app {
-    background-image: url(https://i.imgur.com/6f8vevM.jpg) !important;
+    background-image: url(https://images.thewest.com.au/publication/YA-377455/a_270913genironmoon5_1a10pmb-1a10pmj.jpg?imwidth=800) !important;
     background-size: cover !important;
 }
 .layers, .layer { background: transparent !important;
 }
 .callout-backdrop {
-    background-image: url(https://i.imgur.com/6f8vevM.jpg) !important;
+    background-image: url(https://images.thewest.com.au/publication/YA-377455/a_270913genironmoon5_1a10pmb-1a10pmj.jpg?imwidth=800) !important;
     background-size: cover !important;
 }
 
@@ -1343,7 +1343,7 @@ div.bd-dropdown {
 }
 
 #app-mount > div > div.app.flex-vertical.theme-dark > div > section > div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > div.flex-spacer.flex-vertical > form > div > div.channel-textarea-autocomplete > div > header{
-    background-color: rgba(0,204,204,0.8) !important;
+    background-color: rgba(0,255,0) !important;
     color: #fff !important;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -1351,7 +1351,7 @@ div.bd-dropdown {
 }
 
 #app-mount > div > div.app.flex-vertical.theme-dark > div > section > div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > div.flex-spacer.flex-vertical > form > div > div.channel-textarea-autocomplete > div > ul{
-    background-color: rgba(0,204,204,0.6) !important;
+    background-color: rgba(0,255,0) !important;
     border-bottom-left-radius: 7px;
     border-bottom-right-radius: 7px;
 }
